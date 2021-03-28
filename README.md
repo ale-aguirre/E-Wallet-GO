@@ -2,9 +2,9 @@
 App hecha con React Native, usando Firebase, Docker, Expo.
 
 ## Screenshots
-<img src="https://ibb.co/YZ1P0J4"/>
+<img src="https://i.ibb.co/HdbBhRL/1go.jpg"/>
 
-![Card](https://ibb.co/XkFhWmV)
+![Card](https://i.ibb.co/HdbBhRL/1go.jpg)
 
 ![Perfil](https://ibb.co/ZN4QvLD)
 
